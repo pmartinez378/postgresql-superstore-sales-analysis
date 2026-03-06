@@ -199,3 +199,21 @@ SELECT region,
 FROM superstore
 GROUP BY region
 ORDER BY total_sales DESC;
+
+## Skills Demonstrated
+
+This project demonstrates practical data analysis skills using SQL and PostgreSQL, including:
+
+- Writing complex SQL queries for business analytics
+- Data aggregation using `SUM`, `COUNT`, `AVG`
+- Grouping and segmentation using `GROUP BY`
+- Calculating business metrics such as **profit margins**
+- Handling divide-by-zero safely using `NULLIF`
+- Identifying profitability drivers and operational inefficiencies
+- Translating raw data into **business insights**
+
+Tools used in this project:
+
+- PostgreSQL
+- pgAdmin 4
+- SQL
